@@ -1,0 +1,1 @@
+export const TRAVEL_TIME = 12;
